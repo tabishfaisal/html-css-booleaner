@@ -1,0 +1,31 @@
+.main-Head{
+    background-color: rgb(77, 160, 254);
+    background-image: url("./img/pattern.png");
+    background-size: auto 150px;
+}
+.phrase{
+    color: darkgrey;
+}
+.author{
+    color: aqua;
+}
+.line1{
+    background-color: rgba(0, 0, 255, 0.913);
+    color: white;
+}
+.line2{
+    background-color: aqua;
+}
+.line3{
+    background-color: aqua;
+}
+.table-line{
+    text-align: left;
+}
+.suggestion{
+    color: darkgray;
+    font-size: medium;
+}
+.navi{
+    background-image: url("./img/monitor.jpg");
+}
